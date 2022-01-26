@@ -74,3 +74,4 @@ Deploy your Gatsby app using Vercel, the creators of Next.js. With the click of 
 ## 6. Previewing Draft Changes
 
 By default, your starter project is set up to allow previewing of draft changes saved in your ButterCMS.com account. To disable this functionality, set the following value in your .env file: BUTTER_CMS_PREVIEW=false
+
